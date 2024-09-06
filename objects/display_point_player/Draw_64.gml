@@ -1,0 +1,1 @@
+draw_text(x, y, obj_ball.player_points);
